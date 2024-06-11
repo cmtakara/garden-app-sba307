@@ -5,12 +5,12 @@ This is the first in a series of assigments in a MERN stack curriculum.  It buil
 This is a sample assignment that has the following requirements
 ## Requirements
 ### HTML 
-1. Have at least three pages
+1. - [x] at least three pages
      - Keep the grid system consistent between the pages as much as possible
-2. Use at least ten different HTML tags
-3. Include at least two forms
-4. Include at least one dropdown menu
-5. Include at least one of each of the following forms of content
+2. - [ ] Use at least ten different HTML tags
+3. - [ ] Include at least two forms
+4. - [ ] Include at least one dropdown menu
+5. - [ ] Include at least one of each of the following forms of content
     a. Text
     b. Images
     c. GIFs
